@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "7ac7e58114072b67abb8883672e22da7a78e89d5",
     "author": "ArianaPita-0102",
     "commit": {
       "date": "2026-02-12T03:38:54.000Z",
       "message": "funcion de multiplicacion",
-      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/HEAD"
+      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/7ac7e58114072b67abb8883672e22da7a78e89d5"
     },
     "stats": {
       "total": 5,
       "additions": 5,
       "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-02-12T03:39:32.000Z",
+      "message": "boton de multiplicar agregado",
+      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 4,
+      "deletions": 3,
       "date": "2026-02-12"
     },
     "coverage": 100,
