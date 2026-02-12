@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b865edba9964ea6a73882dfaa9597e845236c72f",
     "author": "ArianaPita-0102",
     "commit": {
       "date": "2026-02-12T03:39:32.000Z",
       "message": "boton de multiplicar agregado",
-      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/HEAD"
+      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/b865edba9964ea6a73882dfaa9597e845236c72f"
     },
     "stats": {
       "total": 7,
       "additions": 4,
       "deletions": 3,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-02-12T03:40:09.000Z",
+      "message": "funcionalidad de multiplicacion",
+      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/HEAD"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 33,
+      "deletions": 4,
       "date": "2026-02-12"
     },
     "coverage": 100,

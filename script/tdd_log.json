@@ -6,9 +6,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b865edba9964ea6a73882dfaa9597e845236c72f",
     "commitName": "boton de multiplicar agregado",
     "commitTimestamp": 1770867572726,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "funcionalidad de multiplicacion",
+    "commitTimestamp": 1770867609254,
+    "testId": 2
   }
 ]
