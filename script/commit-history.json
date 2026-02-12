@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-02-12T03:38:54.000Z",
+      "message": "funcion de multiplicacion",
+      "url": "https://github.com/ArianaPita-0102/JavasScript-Inicio/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
